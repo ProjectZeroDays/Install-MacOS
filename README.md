@@ -1,6 +1,6 @@
 # Install-MacOS
 
-Installs MacOS on a drive for you.
+This script auto installs MacOS on a drive for you. Run this from the drive you wish to setup with MacOS install files.
 
 To run, use:
 
