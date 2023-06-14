@@ -4,4 +4,4 @@ Installs MacOS on a drive for you.
 
 To run, use:
 
-    python3 install.py
+    /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/Install-MacOS/main/install.sh")
