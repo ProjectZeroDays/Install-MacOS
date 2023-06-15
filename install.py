@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-'''installinstallmacos.py
+'''install.py
 A tool to download the parts for an Install macOS app from Apple's
 softwareupdate servers and install a functioning Install macOS app onto an
 empty disk image'''
@@ -29,7 +29,7 @@ try:
     import xattr
 except ImportError:
     print("This tool requires the Python xattr module. "
-          "Perhaps run `pip install xattr` to install it.")
+          "Run `brew install --cask xattred xattr` to install it.")
     sys.exit(-1)
 
 
