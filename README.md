@@ -4,4 +4,4 @@ This script auto installs MacOS on a drive for you. Run this from the drive you 
 
 To run, use:
 
-    /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/Install-MacOS/main/install.sh)"
+    /bin/sh -c "curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/Install-MacOS/main/install.sh"
